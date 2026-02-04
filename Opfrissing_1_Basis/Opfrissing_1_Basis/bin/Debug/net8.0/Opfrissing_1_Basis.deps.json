@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Opfrissing_1_Basis/1.0.0": {
+        "runtime": {
+          "Opfrissing_1_Basis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opfrissing_1_Basis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

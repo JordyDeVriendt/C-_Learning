@@ -1,0 +1,15 @@
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\bin\Debug\net8.0\Opfrissing_1_Basis.exe
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\bin\Debug\net8.0\Opfrissing_1_Basis.deps.json
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\bin\Debug\net8.0\Opfrissing_1_Basis.runtimeconfig.json
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\bin\Debug\net8.0\Opfrissing_1_Basis.dll
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\bin\Debug\net8.0\Opfrissing_1_Basis.pdb
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\Opfrissing_1_Basis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\Opfrissing_1_Basis.AssemblyInfoInputs.cache
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\Opfrissing_1_Basis.AssemblyInfo.cs
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\Opfrissing_1_Basis.csproj.CoreCompileInputs.cache
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\Opfrissing_1_Basis.sourcelink.json
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\Opfrissing_1_Basis.dll
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\refint\Opfrissing_1_Basis.dll
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\Opfrissing_1_Basis.pdb
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\Opfrissing_1_Basis.genruntimeconfig.cache
+C:\Users\shado\Desktop\C#_2026\Opfrissing_1_Basis\Opfrissing_1_Basis\obj\Debug\net8.0\ref\Opfrissing_1_Basis.dll
